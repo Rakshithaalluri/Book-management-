@@ -10,19 +10,6 @@ A **Book Management System** built using **React**, designed to manage a library
 - **Responsive Navbar**: Easy navigation with professionally styled links.
 - **Interactive UI**: Smooth animations and user-friendly interface for a great experience.
 
-## Screenshots
-
-### Home Page
-![Home Page](./screenshots/home-page.png)
-
-### Search Results
-![Search Results](./screenshots/search-results.png)
-
-### Add Book Page
-![Add Book Page](./screenshots/add-book-page.png)
-
-> Replace the `screenshots` directory with actual screenshot files.
-
 ## Technologies Used
 
 - **Frontend**: React.js, HTML5, CSS3
